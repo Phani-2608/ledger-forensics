@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.pytest_cache/
+.DS_Store
+artifacts/*.json
+artifacts/*.png
+artifacts/*.log
+artifacts/SUMMARY.md
+!artifacts/.gitkeep
+external_data/
